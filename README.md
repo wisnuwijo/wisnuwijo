@@ -18,6 +18,6 @@ I'm a Senior Software Engineer with over 7 years of experience designing, develo
 
 📧 Email: wisnuwijo33@gmail.com
 
-🌐 Portfolio: wisnuwijo.github.io
+🌐 Portfolio: [wisnuwijo.github.io](https://wisnuwijo.github.io)
 
-🔗 LinkedIn: Wisnu Wijokangko
+🔗 LinkedIn: [Wisnu Wijokangko](https://www.linkedin.com/in/wisnuwijo/)
